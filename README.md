@@ -30,7 +30,7 @@ Frontend desarrollado en **Angular 17+** para la gestión y búsqueda de cliente
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/btorresdominguez/ClientesFrontend.git
+git clone https://github.com/btorresdominguez/API-CLIENTES/
 cd ClientesFrontend
 ```
 
