@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "ApiClientes.WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "ApiClientes.Application.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiClientes.Application.DTOs.ApiResponseDto\u00601[[ApiClientes.Application.DTOs.LoginResponseDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "ApiClientes.Application.DTOs.ApiResponseDto\u00601[[ApiClientes.Application.DTOs.LoginResponseDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "ApiClientes.Application.DTOs.ApiResponseDto\u00601[[ApiClientes.Application.DTOs.LoginResponseDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiClientes.API.Controllers.ClientesController",
+    "Method": "ObtenerClientePorIdentificacion",
+    "RelativePath": "api/Clientes/{identificacion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "identificacion",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ApiClientes.DTOs.DTOs.ApiResponse\u00601[[ApiClientes.DTOs.DTOs.ClienteDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "ApiClientes.DTOs.DTOs.ApiResponse\u00601[[ApiClientes.DTOs.DTOs.ClienteDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "ApiClientes.DTOs.DTOs.ApiResponse\u00601[[ApiClientes.DTOs.DTOs.ClienteDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "ApiClientes.DTOs.DTOs.ApiResponse\u00601[[ApiClientes.DTOs.DTOs.ClienteDto, ApiClientes.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

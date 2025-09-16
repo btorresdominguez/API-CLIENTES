@@ -1,0 +1,15 @@
+D:\ApiClientes\ApiClientes.Repository\bin\Debug\net9.0\ApiClientes.Repository.deps.json
+D:\ApiClientes\ApiClientes.Repository\bin\Debug\net9.0\ApiClientes.Repository.dll
+D:\ApiClientes\ApiClientes.Repository\bin\Debug\net9.0\ApiClientes.Repository.pdb
+D:\ApiClientes\ApiClientes.Repository\bin\Debug\net9.0\ApiClientes.Models.dll
+D:\ApiClientes\ApiClientes.Repository\bin\Debug\net9.0\ApiClientes.Models.pdb
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.csproj.AssemblyReference.cache
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.AssemblyInfoInputs.cache
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.AssemblyInfo.cs
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.csproj.CoreCompileInputs.cache
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClien.FBE84630.Up2Date
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.dll
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\refint\ApiClientes.Repository.dll
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ApiClientes.Repository.pdb
+D:\ApiClientes\ApiClientes.Repository\obj\Debug\net9.0\ref\ApiClientes.Repository.dll

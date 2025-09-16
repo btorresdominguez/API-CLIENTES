@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ApiClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D18148-46A0-41BC-B891-5CA040F6103B}|ApiClientes.Tests\\ApiClientes.Tests.csproj|d:\\apiclientes\\apiclientes.tests\\controllers\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D18148-46A0-41BC-B891-5CA040F6103B}|ApiClientes.Tests\\ApiClientes.Tests.csproj|solutionrelative:apiclientes.tests\\controllers\\clienteservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\models\\userrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\models\\userrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\apiclientes.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\apiclientes.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\apiclientes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\apiclientes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|d:\\apiclientes\\apiclientes.services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|solutionrelative:apiclientes.services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|d:\\apiclientes\\apiclientes.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|solutionrelative:apiclientes.services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|d:\\apiclientes\\apiclientes.services\\apiclientes.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|solutionrelative:apiclientes.services\\apiclientes.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|d:\\apiclientes\\apiclientes.services\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|solutionrelative:apiclientes.services\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|d:\\apiclientes\\apiclientes.repository\\apiclientes.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69C1B612-5DF6-48CA-B250-252167A7B89E}|ApiClientes.Repository\\ApiClientes.Repository.csproj|solutionrelative:apiclientes.repository\\apiclientes.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\apiclientes.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\apiclientes.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\apiclientes.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\apiclientes.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\models\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\models\\usertokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|d:\\apiclientes\\apiclientes.models\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A96056-55E6-4C07-8CEA-84C7C741483C}|ApiClientes.Models\\ApiClientes.Models.csproj|solutionrelative:apiclientes.models\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|d:\\apiclientes\\apiclientes.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545015E0-9893-417C-BEDF-17214028196E}|ApiClientes.API\\ApiClientes.API.csproj|solutionrelative:apiclientes.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|d:\\apiclientes\\apiclientes.services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175449FB-FCDC-4793-B41F-75CEE0B95225}|ApiClientes.Services\\ApiClientes.Services.csproj|solutionrelative:apiclientes.services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|d:\\apiclientes\\apiclientes.dtos\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28B7DF-294E-4C43-9BDC-1DE3147083F0}|ApiClientes.DTOs\\ApiClientes.DTOs.csproj|solutionrelative:apiclientes.dtos\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteServiceTests.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Tests\\Controllers\\ClienteServiceTests.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Tests\\Controllers\\ClienteServiceTests.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Tests\\Controllers\\ClienteServiceTests.cs",
+              "RelativeToolTip": "ApiClientes.Tests\\Controllers\\ClienteServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:58:31.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiClientes.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiClientes.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T22:40:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiClientes.API.http",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\ApiClientes.API.http",
+              "RelativeDocumentMoniker": "ApiClientes.API\\ApiClientes.API.http",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\ApiClientes.API.http",
+              "RelativeToolTip": "ApiClientes.API\\ApiClientes.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-15T22:39:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClientes.API\\Program.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\Program.cs",
+              "RelativeToolTip": "ApiClientes.API\\Program.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAADIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:12:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiClientes.API",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\ApiClientes.API.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.API\\ApiClientes.API.csproj",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\ApiClientes.API.csproj",
+              "RelativeToolTip": "ApiClientes.API\\ApiClientes.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T22:04:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiClientes.API\\appsettings.json",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\appsettings.json",
+              "RelativeToolTip": "ApiClientes.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T21:13:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRol.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\Models\\UserRol.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\Models\\UserRol.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\Models\\UserRol.cs",
+              "RelativeToolTip": "ApiClientes.Models\\Models\\UserRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:44:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiClientes.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:07:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\DTOs\\UserInfoDto.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\UserInfoDto.cs",
+              "RelativeToolTip": "ApiClientes.DTOs\\DTOs\\UserInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:41:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "ApiClientes.Repository\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:09:43.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\Models\\User.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\Models\\User.cs",
+              "RelativeToolTip": "ApiClientes.Models\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:43:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "ApiClientes.Repository\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:23:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "ApiClientes.Repository\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:09:24.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "ApiClientes.Repository\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:42:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ApiClientes.Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:47:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Services\\Services\\AuthService.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Services\\Services\\AuthService.cs",
+              "RelativeToolTip": "ApiClientes.Services\\Services\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:50:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Services\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Services\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Services\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ApiClientes.Services\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:11:04.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiClientes.Models",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\ApiClientes.Models.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\ApiClientes.Models.csproj",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\ApiClientes.Models.csproj",
+              "RelativeToolTip": "ApiClientes.Models\\ApiClientes.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T22:10:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiClientes.Repository",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Repository\\ApiClientes.Repository.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.Repository\\ApiClientes.Repository.csproj",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Repository\\ApiClientes.Repository.csproj",
+              "RelativeToolTip": "ApiClientes.Repository\\ApiClientes.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T22:10:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiClientes.Services",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Services\\ApiClientes.Services.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.Services\\ApiClientes.Services.csproj",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Services\\ApiClientes.Services.csproj",
+              "RelativeToolTip": "ApiClientes.Services\\ApiClientes.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T22:10:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGYQAAAAAAAAAAAAAGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-15T22:06:10.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAANwBAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-15T22:05:57.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiClientes.DTOs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\ApiClientes.DTOs.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\ApiClientes.DTOs.csproj",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\ApiClientes.DTOs.csproj",
+              "RelativeToolTip": "ApiClientes.DTOs\\ApiClientes.DTOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T21:03:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiClientes.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiClientes.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:37:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserTokens.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\Models\\UserTokens.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\Models\\UserTokens.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\Models\\UserTokens.cs",
+              "RelativeToolTip": "ApiClientes.Models\\Models\\UserTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:46:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\Models\\Role.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\Models\\Role.cs",
+              "RelativeToolTip": "ApiClientes.Models\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:44:54.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "ApiClientes.DTOs\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:41:05.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Models\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Models\\Models\\Cliente.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Models\\Models\\Cliente.cs",
+              "RelativeToolTip": "ApiClientes.Models\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:59:36.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApiResponseDto.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ApiResponseDto.cs",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\DTOs\\ApiResponseDto.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ApiResponseDto.cs",
+              "RelativeToolTip": "ApiClientes.DTOs\\DTOs\\ApiResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:40:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApiClientes.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "ApiClientes.API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:12:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ApiClientes.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ApiClientes.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:11:23.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ApiClientes.Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "ApiClientes.Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:10:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\DTOs\\ApiResponse.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "ApiClientes.DTOs\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:07:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "ApiClientes.DTOs\\DTOs\\ClienteDto.cs",
+              "ToolTip": "D:\\ApiClientes\\ApiClientes.DTOs\\DTOs\\ClienteDto.cs",
+              "RelativeToolTip": "ApiClientes.DTOs\\DTOs\\ClienteDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:04:00.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

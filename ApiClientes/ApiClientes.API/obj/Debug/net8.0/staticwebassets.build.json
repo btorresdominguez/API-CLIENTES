@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3ujvZi6jrMsTIbXECQDRsgqQ6QGLEPutWeRvPJZ/UIY=",
+  "Source": "ApiClientes.API",
+  "BasePath": "_content/ApiClientes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

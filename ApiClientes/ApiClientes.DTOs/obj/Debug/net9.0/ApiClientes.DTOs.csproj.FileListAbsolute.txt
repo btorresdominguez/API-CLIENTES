@@ -1,0 +1,11 @@
+D:\ApiClientes\ApiClientes.DTOs\bin\Debug\net9.0\ApiClientes.DTOs.deps.json
+D:\ApiClientes\ApiClientes.DTOs\bin\Debug\net9.0\ApiClientes.DTOs.dll
+D:\ApiClientes\ApiClientes.DTOs\bin\Debug\net9.0\ApiClientes.DTOs.pdb
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.AssemblyInfoInputs.cache
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.AssemblyInfo.cs
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.csproj.CoreCompileInputs.cache
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.dll
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\refint\ApiClientes.DTOs.dll
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ApiClientes.DTOs.pdb
+D:\ApiClientes\ApiClientes.DTOs\obj\Debug\net9.0\ref\ApiClientes.DTOs.dll

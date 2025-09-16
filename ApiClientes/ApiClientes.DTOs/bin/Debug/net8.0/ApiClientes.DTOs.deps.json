@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiClientes.DTOs/1.0.0": {
+        "runtime": {
+          "ApiClientes.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiClientes.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

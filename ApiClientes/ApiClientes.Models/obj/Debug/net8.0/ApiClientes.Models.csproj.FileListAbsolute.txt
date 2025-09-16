@@ -1,0 +1,11 @@
+D:\ApiClientes\ApiClientes.Models\bin\Debug\net8.0\ApiClientes.Models.deps.json
+D:\ApiClientes\ApiClientes.Models\bin\Debug\net8.0\ApiClientes.Models.dll
+D:\ApiClientes\ApiClientes.Models\bin\Debug\net8.0\ApiClientes.Models.pdb
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.AssemblyInfoInputs.cache
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.AssemblyInfo.cs
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.csproj.CoreCompileInputs.cache
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.dll
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\refint\ApiClientes.Models.dll
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ApiClientes.Models.pdb
+D:\ApiClientes\ApiClientes.Models\obj\Debug\net8.0\ref\ApiClientes.Models.dll
