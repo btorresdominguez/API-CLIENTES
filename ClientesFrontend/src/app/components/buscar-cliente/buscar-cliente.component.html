@@ -1,0 +1,85 @@
+<div class="login-container">
+  <div class="login-header">
+    <h2>Buscar Cliente</h2>
+    <p>Ingresa el número de identificación</p>
+  </div>
+  
+  <form (ngSubmit)="onSubmit()" #searchForm="ngForm">
+    <div class="form-group">
+      <label for="identificacion">Número de Identificación</label>
+      <div class="input-wrapper">
+        <input 
+          type="text" 
+          id="identificacion"
+          name="identificacion" 
+          class="form-input"
+          placeholder="Ej: 12345678"
+          [(ngModel)]="identificacion" 
+          required 
+          pattern="[0-9]+"
+          [class.invalid]="!isValidIdentificacion() && identificacion.length > 0"
+        />
+      </div>
+      <div class="input-error" *ngIf="!isValidIdentificacion() && identificacion.length > 0">
+        La identificación debe contener solo números
+      </div>
+    </div>
+    
+    <button 
+      type="submit" 
+      class="submit-btn"
+      [class.loading]="isLoading"
+      [disabled]="!isValidIdentificacion() || isLoading">
+      <span *ngIf="!isLoading">Buscar Cliente</span>
+      <span *ngIf="isLoading">Buscando...</span>
+    </button>
+  </form>
+  
+  <!-- Resultado de la búsqueda -->
+  <div *ngIf="searched && !isLoading" class="search-result">
+    <!-- Cliente encontrado -->
+    <div *ngIf="cliente && !errorMessage" class="client-info">
+      <div class="client-header">
+        <h3>Cliente Encontrado</h3>
+        <span class="success-icon">✓</span>
+      </div>
+      <div class="client-details">
+        <div class="detail-row">
+          <span class="detail-label">Identificación:</span>
+          <span class="detail-value">{{ cliente.identificacion }}</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Nombre Completo:</span>
+          <span class="detail-value">{{ cliente.nombreCompleto }}</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Email:</span>
+          <span class="detail-value email">{{ cliente.email }}</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Fecha Creación:</span>
+          <span class="detail-value">{{ cliente.fechaCreacion | date:'dd/MM/yyyy HH:mm' }}</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Última Actualización:</span>
+          <span class="detail-value">{{ cliente.fechaActualizacion | date:'dd/MM/yyyy HH:mm' }}</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Error / Cliente no encontrado -->
+    <div class="error-message" *ngIf="errorMessage">
+      {{ errorMessage }}
+    </div>
+  </div>
+
+  <!-- Botón para nueva búsqueda -->
+  <div class="new-search" *ngIf="searched && !isLoading">
+    <button 
+      type="button" 
+      class="secondary-btn"
+      (click)="limpiarBusqueda()">
+      Nueva Búsqueda
+    </button>
+  </div>
+</div>

@@ -1,0 +1,232 @@
+/* components/buscar-cliente/buscar-cliente.component.scss */
+.login-container {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  
+  h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin: 0 0 0.5rem 0;
+  }
+  
+  p {
+    color: #7f8c8d;
+    margin: 0;
+    font-size: 0.95rem;
+  }
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: #2c3e50;
+    font-size: 0.9rem;
+  }
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 2px solid #e1e8ed;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  background: #fff;
+  box-sizing: border-box;
+  
+  &:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+  }
+  
+  &.invalid {
+    border-color: #e74c3c;
+    box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.1);
+  }
+  
+  &::placeholder {
+    color: #bdc3c7;
+  }
+}
+
+.input-error {
+  color: #e74c3c;
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 0.75rem;
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-bottom: 1rem;
+  
+  &:hover:not(:disabled) {
+    background: linear-gradient(135deg, #2980b9, #21618c);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.3);
+  }
+  
+  &:disabled {
+    background: #bdc3c7;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+  }
+  
+  &.loading {
+    background: #bdc3c7;
+  }
+}
+
+.secondary-btn {
+  width: 100%;
+  padding: 0.75rem;
+  background: #f8f9fa;
+  color: #6c757d;
+  border: 2px solid #e1e8ed;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: #e9ecef;
+    border-color: #6c757d;
+    color: #495057;
+  }
+}
+
+.search-result {
+  margin-top: 1.5rem;
+}
+
+.client-info {
+  background: linear-gradient(135deg, #d4edda, #c3e6cb);
+  border: 1px solid #b4d6ca;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  
+  .client-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #b4d6ca;
+    
+    h3 {
+      color: #155724;
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin: 0;
+    }
+    
+    .success-icon {
+      background: #28a745;
+      color: white;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9rem;
+      font-weight: bold;
+    }
+  }
+}
+
+.client-details {
+  .detail-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(180, 214, 202, 0.3);
+    
+    &:last-child {
+      margin-bottom: 0;
+      border-bottom: none;
+    }
+    
+    .detail-label {
+      font-weight: 600;
+      color: #155724;
+      flex: 0 0 auto;
+      margin-right: 1rem;
+    }
+    
+    .detail-value {
+      color: #1e7e34;
+      text-align: right;
+      word-break: break-all;
+      
+      &.email {
+        color: #007bff;
+      }
+    }
+  }
+}
+
+.error-message {
+  background: linear-gradient(135deg, #f8d7da, #f1b3ba);
+  border: 1px solid #f1b3ba;
+  color: #721c24;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.new-search {
+  margin-top: 1rem;
+}
+
+// Responsive
+@media (max-width: 768px) {
+  .login-container {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+  
+  .client-details .detail-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+    
+    .detail-value {
+      text-align: left;
+    }
+  }
+}
