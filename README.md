@@ -73,7 +73,7 @@ src/
 └── styles.scss               # Estilos globales
 ```
 
-## 🔍 Funcionalidades
+## Funcionalidades
 
 ### Búsqueda de Clientes
 La aplicación permite buscar clientes mediante:
@@ -89,7 +89,7 @@ Cuando se encuentra un cliente, se muestra:
 - Fecha de creación
 - Última actualización
 
-## 🌐 API Endpoints
+## API Endpoints
 
 ### Clientes
 - `GET /api/Clientes/{identificacion}` - Buscar cliente por identificación
@@ -159,7 +159,7 @@ export const appConfig: ApplicationConfig = {
 export class BuscarClienteComponent { }
 ```
 
-## 🎨 Estilos y UI
+## Estilos y UI
 
 ### Bootstrap 5
 - Grid system responsive
@@ -172,14 +172,14 @@ export class BuscarClienteComponent { }
 - Spinner de loading
 - Hover effects en botones
 
-## 📱 Responsive Design
+## Responsive Design
 
 La aplicación se adapta a diferentes tamaños de pantalla:
 - **Desktop**: Layout completo con columnas
 - **Tablet**: Ajuste de espaciado
 - **Mobile**: Layout en una columna
 
-## 🚀 Comandos de Desarrollo
+## Comandos de Desarrollo
 
 ```bash
 # Desarrollo
